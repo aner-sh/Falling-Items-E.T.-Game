@@ -35,7 +35,7 @@ const imageCategories = {
   mnms: { images: ["red.png", "yellow.png", "blue.png"], xp: 30, path: "images/mnms/" },
   rare: { images: ["flowers.png", "bicycle.png"], xp: 200, path: "images/rare/" },
   evil: { images: ["gun.png", "halloween.png"], xp: -100, path: "images/evil/" },
-  end: { images: ["hawk.png"], xp: "end", path: "images/end/" }
+  end: { images: ["eagle.png"], xp: "end", path: "images/end/" }
 };
 
 const weightedCategories = [
@@ -273,7 +273,7 @@ function collectItem(item) {
 
   if (xpValue === "end") {
     if (hasShield) return;
-    alert("You encountered the hawk! E.T. was caught. Game Over.");
+    alert("E.T. was caught by the CIA! Game Over.");
     window.location.reload();
     return;
   }

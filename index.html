@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>E.T. The Adventure</title>
+  <link rel="icon" type="image/png" href="assets/favicon.png" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- NEW Game Controls Bar -->
+  <audio id="bg-music" src="sounds/background.m4a" autoplay loop></audio>
+  <div id="text-bubble"></div>
+  <div id="game-controls">
+    <div id="xp-status">GAS: <span id="xp-count">0</span></div>
+
+    <div id="xp-bar-container">
+      <div id="xp-bar"></div>
+      <div id="rocket">🚀</div>
+    </div>
+
+    <div id="game-buttons">
+      <button id="pause-btn">⏸</button>
+      <button id="resume-btn">▶</button>
+      <button id="restart-btn">↻</button>
+    </div>
+  </div>
+
+  <div id="game-container">
+    <img src="assets/background.jpg" alt="Game Background" id="game-bg" />
+  </div>
+  <div id="ouch-bubble">ouch</div>
+
+  <div id="viewport">
+    <div id="figure-wrapper">
+      <img src="assets/fire.gif" id="leg-fire" alt="Fire under E.T.">
+      <img src="assets/figure.png" id="figure" alt="E.T.">
+    </div>
+  </div>
+
+  <div id="falling-container"></div>
+
+  <div id="winner-message"></div>
+
+  <audio id="ding" src="sounds/xp-ding.wav" preload="auto"></audio>
+
+  <script src="script.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+</body>
+</html>

@@ -195,6 +195,6 @@ This game was coded and designed using **HTML**, **CSS**, and **JavaScript**, an
 
 ---
 
-Want to see the code? [Click here to view the repository](INSERT-GITHUB-REPO-LINK).
+Want to see the code? [Click here to view the repository](https://aner-sh.github.io/Falling-Items-E.T.-Game/).
 
 Enjoy the ride, and remember: **(Be) Good.**

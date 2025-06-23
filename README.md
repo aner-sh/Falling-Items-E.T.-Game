@@ -32,13 +32,13 @@ XP progress is visually tracked with a sleek rocket that travels along the XP ba
 
 ## 🎨 Power-Ups
 
-### 🚴 Bicycle  
-![Bicycle](INSERT-BICYCLE-IMAGE-URL)  
+### 🚲 Bicycle  
+![Bicycle](images/rare/bicycle.png)  
 - **Effect**: Temporarily boosts E.T.'s speed and sets his feet ablaze with pixelated fire.  
 - **Duration**: 10 seconds  
 
 ### 🌺 Flowers  
-![Flowers](INSERT-FLOWERS-IMAGE-URL)  
+![Flowers](images/rare/flowers.png)  
 - **Effect**: Grants E.T. a glowing shield bubble.  
 - **Benefit**: Blocks evil items and doubles XP from good ones.  
 - **Duration**: 10 seconds  
@@ -50,14 +50,14 @@ XP progress is visually tracked with a sleek rocket that travels along the XP ba
 These items must be avoided!
 
 ### 🔫 Gun  
-![Gun](INSERT-GUN-IMAGE-URL)  
+![Gun](images/evil/gun.png)  
 - **Effect**: Decreases XP by 100 unless E.T. is shielded.
 
 ### 🎃 Halloween Pumpkin  
-![Pumpkin](INSERT-PUMPKIN-IMAGE-URL)  
+![Pumpkin](images/evil/halloween.png)  
 - **Effect**: Also decreases XP unless protected.
 
-### 🧙‍♂️ Eagle  
+### 🦅 Eagle  
 ![Eagle](images/end/eagle.png)  
 - **Effect**: If E.T. is unshielded, the game ends immediately with a surprise ending.
 

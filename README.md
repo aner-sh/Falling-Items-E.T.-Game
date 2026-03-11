@@ -3,7 +3,7 @@
 <img src="INSERT-GAME-INTERFACE-IMAGE-URL-HERE" alt="Game Interface" width="60" />
 
 **E.T. — The Adventure** is a pixelated browser game inspired by the legendary alien himself. Play as E.T. as he dodges danger, collects power-ups, and races toward the stars — all wrapped in a retro 8-bit style made for nostalgic fun.
-**Hit this link to play! https://aner-sh.github.io/Falling-Items-E.T.-Game/
+**Hit this link to play! https://aner-sh.github.io/Falling-Items-E.T.-Game/**
 ---
 
 ## 🎨 Pixelated Design
